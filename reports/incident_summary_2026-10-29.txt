@@ -1,0 +1,11 @@
+==========================================
+    AUTOMATED SOC INCIDENT REPORT
+    Generated on: Thu Oct 29 18:53:54 WAT 2026
+==========================================
+
+1. SSH Brute Force Detection:
+      2 192.168.1.105
+
+2. Web Intrusion (401 Unauthorized) Spikes:
+      2 192.168.1.105
+==========================================
